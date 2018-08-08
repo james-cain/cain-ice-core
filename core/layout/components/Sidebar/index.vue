@@ -9,7 +9,7 @@
 
 <script>
 import { mapGetters } from 'vuex';
-import ScrollBar from '@/components/ScrollBar';
+import ScrollBar from '../../../ScrollBar';
 import { constantRouterMap } from '@/router';
 import SidebarItem from './SidebarItem';
 
@@ -66,9 +66,6 @@ export default {
           }
         }
       });
-      console.log('------------');
-      console.log(this.roles);
-      console.log(constantRouterMap);
       return constantRouterMap;
     },
   },
