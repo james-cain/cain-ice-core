@@ -1,0 +1,23 @@
+{
+  "name": "cain-ice-core",
+  "version": "1.0.0-beta.0",
+  "description": "ice template core code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/james-cain/cain-ice-core.git"
+  },
+  "keywords": [
+    "ice",
+    "template"
+  ],
+  "author": "james-cain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/james-cain/cain-ice-core/issues"
+  },
+  "homepage": "https://github.com/james-cain/cain-ice-core#readme"
+}
