@@ -27,7 +27,13 @@ export default {
 </script>
 
 <style rel="stylesheet/less" lang="less">
-@import "../../styles/mixin.less";
+.clearfix {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
 .app-wrapper {
   .clearfix;
   position: relative;

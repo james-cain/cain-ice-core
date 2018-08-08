@@ -1,6 +1,6 @@
 {
   "name": "@coracain/cain-ice-core",
-  "version": "1.0.0-beta.2",
+  "version": "1.0.0-beta.3",
   "description": "ice template core code",
   "main": "index.js",
   "private": false,
