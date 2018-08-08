@@ -1,5 +1,5 @@
 {
-  "name": "cain-ice-core",
+  "name": "@coracain/cain-ice-core",
   "version": "1.0.0-beta.0",
   "description": "ice template core code",
   "main": "index.js",
