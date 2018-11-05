@@ -3,7 +3,7 @@
     <header>
       <div class="container main-nav-bar">
         <img :src="`./static/${address}`" class="logo" alt="" />
-        <img src="../../../static/logo.svg" class="logo-name" alt="" />
+        <img src="@/../static/logo.svg" class="logo-name" alt="" />
         <svg-icon icon-class="github" class="github" @callback="goTogithub"></svg-icon>
         <el-dropdown @command="handleCommand">
           <span class="el-dropdown-link">
